@@ -1,6 +1,4 @@
-
-
-class calculateJumpCount {
+class CalculateJumpCount {
 
     output1 = 0;
 
@@ -29,4 +27,4 @@ class calculateJumpCount {
     }
 }
 
-new calculateJumpCount(5, 1, 2, [9, 10]);
+new CalculateJumpCount(5, 1, 2, [9, 10]);
